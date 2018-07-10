@@ -184,7 +184,7 @@ a .fa,
 .t-column-right {
     float: left; /*<-change to left */
     position: relative;
-    /*margin-left: 10px;*/ /*<-and play with that too*/
+    margin-left: 50px;*/ /*<-and play with that too*/
     width: 15%; /*<-or increase that, without any changes above */
 }
 
